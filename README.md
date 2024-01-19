@@ -1,4 +1,4 @@
-# DS2_final_project
+# Data Science Two Final Project
 
 This repositpry contains files used for my final project in Data Science two. My project focused on examining the the factors that influence someone returning to prison after they are released This repository is structured into four main folders.
 
